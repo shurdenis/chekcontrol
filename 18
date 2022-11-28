@@ -1,0 +1,25 @@
+class alchemy_18():
+
+    def __init__(self, name, name2):
+        self.name = name
+        self.name2 = name2
+
+    def unification(self):
+        object3 = object3.name[0], [1], [2]
+        object4 = object4.name2[-1]
+        unific = object3.name + object4.name2
+        return unific
+    
+    def complex_element(self):
+        object5 = object.name[0], [1], [2]
+        complex = object5 * len(object.name2)
+        return complex
+    
+    def gradual_multiplication(self):
+        gradual = object.name[::-1]
+        gradual1 = object.name2[::-1]
+        return gradual, gradual1
+    
+
+emp1 = alchemy_18('Vodorod', 'Geliy')
+emp2 = alchemy_18('Water', 'Ftor')
